@@ -1,0 +1,6 @@
+{
+  "name": "Exam Prep",
+  "description": "AI exam study assistant for Class 5 to 10 students. Analyzes previous question papers, syllabus, and chapter photos to generate high-yield questions, revision notes, and flashcard quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
